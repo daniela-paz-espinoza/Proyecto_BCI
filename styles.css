@@ -1,0 +1,108 @@
+.fondo {
+    background-image: url(imagenes/background.png);
+    background-position: center top -450px;
+}
+
+.verde {
+    position: absolute;
+    left: 1000px;
+}
+
+.logo {
+    position: absolute;
+    left: 600px;
+    z-index: 1;
+}
+
+.destello {
+    position: absolute;
+    left: 450px;
+    top: -250px;
+    z-index: 0;
+
+}
+
+.amarillo {
+    position: absolute;
+    left: 250px;
+}
+
+.btn1 {
+    background-image: url(imagenes/btnrojo.png);
+    margin-top: 290px;
+    margin-left: 280px;    
+    width: 301px;
+    height: 87px;    
+    border: none;
+    cursor: pointer;
+    
+}
+
+.btn2 {
+    background-image: url(imagenes/btnazul.png);
+    margin-top: 290px;
+    margin-left: 10px;    
+    width: 301px;
+    height: 87px;    
+    border: none;
+    cursor: pointer;
+     
+}
+
+.btn3 {
+    background-image: url(imagenes/btnverde.png);
+    margin-top: 290px;
+    margin-left: 10px;    
+    width: 301px;
+    height: 87px;    
+    border: none;
+    cursor: pointer;
+    
+}
+
+.parrafo {
+    position: relative;
+    top: 50px;
+    left: 20px;
+}
+
+.iconos{
+    position: relative;
+    top: -70px;
+    left: 20px;
+    width: 500px;
+    height: 250px;
+    cursor: pointer;
+}
+
+.tablet{
+    width: 280px;
+    height: 388px;    
+    position: relative;
+    top: 20px;
+    left: -90px;
+}
+
+.celular {
+    position: relative;
+    top: 20px;
+    left: 370px;
+}
+
+.sombra {
+    position: relative;
+    top: 10px;
+    left: 620px;
+
+}
+.bciazul {
+    position: relative;
+    top: 40px;
+    left: 20px;
+}
+
+.consejos {
+    position: relative;
+    top: -70px;
+    left: 20px;
+}
